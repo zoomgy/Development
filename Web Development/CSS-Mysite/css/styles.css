@@ -1,0 +1,121 @@
+.top-container{
+    background-color: #EAF6F6;
+    margin : 0;
+    width: 100%;
+    padding-top: 130px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color : #66BFBF;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5rem; 
+    color : #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    color :  #11999E;
+}
+body {
+    margin :0px 0px 0px 0px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.top-cloud{
+    width: 10%;
+    position:absolute;
+    right : 15%;
+    top: 100px;
+}
+.bottom-cloud{
+    position:absolute;
+    left :15%;
+    width: 10%;
+    top: 200px;
+}
+.mountain{
+    width : 30%;
+}
+.name {
+    margin : 50 auto 0 auto;
+    font-size: 7rem;
+    margin-bottom: 0;
+}
+.profession{
+    width:fit-content;
+    margin : 0 auto ;  
+}
+.middle-container{
+    padding-top: 30px;
+    margin-bottom:50px;
+}
+.first-image{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+}
+.c-document{
+    width : 25%;
+    float:right;
+    margin-left: 30px;
+}
+.profile{
+    margin-bottom: 50px;
+}
+.profile-pic{
+    border : solid 5px  #4c8c8c;
+    border-radius: 100%;
+}
+a{
+    color : #11999E
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 1.8;
+}
+.description{
+    width: 50%;
+    margin:0 auto;
+    color : #40514E
+}
+hr{
+    width : 7%;
+    height: 0;
+    border-style: dotted hidden hidden hidden;
+    border-width: 10px;
+    border-color : #EAF6F6;
+}
+.bottom-container{
+    background-color :#66BFBF;
+    padding-top:40px;
+    padding-bottom:20px;
+}
+.copyright{
+   color: #EAF6F6;
+}
+.btn{
+    padding:5px;
+    border : solid #11999E;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn:hover{
+    color:white;
+    background-color: #11999E;
+}
+.footer-link{
+    padding:5px;
+    border : solid #11999E;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color:white;
+    background-color: #11999E;
+}
+span{text-decoration: underline;}

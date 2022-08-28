@@ -1,0 +1,45 @@
+Solve all the programs using if-else and conditional operator(ternary operator)
+
+1.	Program:- Write a program to check whether the candidate is eligible for voting or not by accepting the age value from the user.
+
+   If the candidate’s age is more than or equal to 18 years then he/she is eligible for voting. So, if 
+    statement we will write condition as (age>=18)
+
+2.	Program:- Write a C program to check whether the given number is of multiple of 7 or not. If the number is divisible by 7 then we can say that the number is multiple of 7 otherwise the number is not multiple of 7.
+
+3.	Program:- Write a program to check whether the given number is positive or negative or zero.
+If the number is less than zero then the number is positive and if the number is greater than zero then the number is negative. When both conditions become false then the number is zero.
+
+4.	Program:- Write a c program to check the given number is even or odd using if else conditional statements.
+A number is called even number when the number is divisible by 2. If the number is not divisible by 2 then it is called an odd number.
+
+5.	Finding Largest in Two Number
+.
+6.	Finding Largest in Three Number
+
+7.	Program:- Write a C program to evaluate the result of a student by accepting marks in three subjects. If any subject mark is less than 35 then the student is failing. For average greater than equal to 60, the student is first-class else it is 2nd class. If the student does not fail then also display the total mark and average mark.
+
+8.	Program:- Write a program to check whether the given character is an uppercase alphabet or not using the if-else conditional statement in C.
+The uppercase letter is from ‘A’ to ‘Z’. The ASCII value of ‘A’ and ‘Z’ are 65 and 90 respectively. If any character’s ASCII value is within the range of 65 to 90 then it is an uppercase alphabet.
+
+9.	Program:- Write a program to check whether the given character is a lowercase alphabet or not.
+
+10.	Program:- Write a C program to check character is an alphabet or not using if-else conditional statements.
+ASCII value of A=65 & Z=90
+ASCII value of a=97 & z=122
+All Values from 65 to 90 or 97 to 122 are an alphabet.
+
+11.	Program:- Write a program to calculate the net amount by accepting the amount values from the user.
+            Amount in $	Discount (%)
+             >= 1000	10%
+            Otherwise	5%
+ 
+12.	Problem description:- Read a person/girl’s age and gender. Determine that he/she is eligible for marriage or not. Eligibility for marriage for boys is 21 years and for girls 18 years.
+Sample Input & Outputs:
+Enter Gender:- M
+Enter Age:- 25
+Eligible
+
+13.	Program:- write a program to read a character and find out it is a lower or upper or digit or special character.
+
+14.	Program:- write a program to read  number and find out the number is divisible by 2 and 3 but not 6.

@@ -1,0 +1,6 @@
+file1 = open("sample.txt","r")
+file2 = open("sample3.txt","a")
+x = file1.read()
+file2.write(x)
+file1.close()
+file2.close()

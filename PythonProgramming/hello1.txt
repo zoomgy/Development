@@ -1,0 +1,3 @@
+
+
+This is written in the file using the write of python.

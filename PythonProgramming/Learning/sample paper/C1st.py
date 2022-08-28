@@ -1,0 +1,5 @@
+file1 = open("info.txt" ,"r")
+line_list = file1.write("Hello")
+print("Number of lines in the file : ",len(line_list))
+print(file1.read())
+file1.close()

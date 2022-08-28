@@ -1,0 +1,11 @@
+file1 = open("sample.txt","r")
+file2 = open("sample3.txt","r")
+file3 = open("sample4.txt","w")
+x = file1.readlines()
+y = file2.readlines()
+a = min(len(x),len(y))
+for i in range(a):
+    file3.write(x[i] + y[i] + "\n")
+file1.close()
+file2.close()
+file3.close()
