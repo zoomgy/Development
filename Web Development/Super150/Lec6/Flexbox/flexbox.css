@@ -1,0 +1,50 @@
+nav{
+    background-color: #219ebc;
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+    height: 90px;
+    margin:0;
+    padding-top:10px; 
+    position:sticky;
+    top:0px;  
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    transition: all;
+    transition-duration: 0.5s;
+}
+a:hover{
+    font-size: 55px;
+}
+ul{
+    display: flex;
+    margin:0;
+}
+li{
+    margin-right: 30px;
+
+}
+div{
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Pacifico', cursive;
+    line-height: 15rem;
+}
+.special-item{
+    position:absolute;
+    right:5px;
+}
+@media(max-width:768px){
+    ul{
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    nav{
+        height: 280px;
+    }
+}

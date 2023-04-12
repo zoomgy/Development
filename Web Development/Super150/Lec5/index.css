@@ -115,3 +115,30 @@ ul{
 .bee-image:hover{
     width: 40%;
 }
+.subcontainer1{
+    position : absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    top:50px;
+    left: auto;
+    right: auto;
+}
+.subcontainer2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    top: 100px;
+    left: auto;
+    right:auto;
+}
+.subcontainer3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color:green;
+    top :200px;
+    left:auto;
+    right:auto;
+}

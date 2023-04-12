@@ -1,0 +1,21 @@
+.topdown{
+    height: 50px;
+    background-color: rgb(130, 146, 146);
+    margin-bottom: 20px;
+    border : solid black 5px;
+    position:sticky;
+    top:0px;
+}
+div{
+    height: 50px;
+    background-color: rgb(87, 235, 225);
+    margin-bottom: 30px;
+    border : solid black 5px;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+footer{
+    height : 700px;
+}
