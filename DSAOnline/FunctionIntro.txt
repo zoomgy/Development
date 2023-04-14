@@ -1,0 +1,3 @@
+When a function is called a new frame is made in the stacks memory.
+Whenever a function has finished its work then the frame is given to garbage collector which frees the memory.
+Variable which has no work and which does not point to anything is also given to the garbage collector.
