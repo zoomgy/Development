@@ -3,11 +3,11 @@ import java.util.List;
 import java.util.Scanner;
 
 public class GenerateParenthesis{
-    public static void main(String[] args) {
+    public static ArrayList main(String[] args) {
 
         List<String> ll= new ArrayList<>();
         myFunction(3,0,0,"",ll);
-        return ll;
+        return (ArrayList)ll;
 
 
     }
